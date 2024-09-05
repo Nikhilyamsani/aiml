@@ -1,1 +1,1 @@
-lab 01 https://github.com/Nikhilyamsani/aiml/blob/main/Untitled2.ipynb
+Lab01 https://github.com/Nikhilyamsani/aiml/blob/main/AIML_assignment_1.ipynb
