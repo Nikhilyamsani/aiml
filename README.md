@@ -7,3 +7,4 @@
 #[lab_07](https://github.com/Nikhilyamsani/aiml/blob/main/AIML_LAB_07)\
 #[lab_08](https://github.com/Nikhilyamsani/aiml/blob/main/AIML_Assignment_8.ipynb)\
 #[lab_09](https://github.com/Nikhilyamsani/aiml/blob/main/Aiml_lab_09.ipynb)
+#[lab_10](https://github.com/Nikhilyamsani/aiml/blob/main/AIML_Assignment_10.ipynb)
